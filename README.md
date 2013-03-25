@@ -1,6 +1,6 @@
 Unity3d-Code-Examples
 =====================
-The first show I itretya folders work with 2D animation in games. The third folder is unfinished 2d game.
+The first show I third folders work with 2D animation in games. The third folder is unfinished 2d game.
 
 The second folder are scripts to create online games, there is a simple example.
 
